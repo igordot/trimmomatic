@@ -12,7 +12,7 @@ public class TailCropTrimmer extends AbstractSingleRecordTrimmer
 		String arg[]=args.split(":");
 	
 		bases=Integer.parseInt(arg[0]);
-	
+		
 		if(arg.length>1)
 			maxLength=Integer.parseInt(arg[1]);
 	}
