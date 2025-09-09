@@ -1,5 +1,5 @@
 # Trimmomatic: A flexible read trimming tool for Illumina NGS data
 
-This is a mirror of Trimmomatic source code for easier searching and browsing.
+This originally served as a mirror of [Trimmomatic](http://www.usadellab.org/cms/index.php?page=trimmomatic) source code for easier browsing, searching, and version control.
 
-Official project website: http://www.usadellab.org/cms/index.php?page=trimmomatic
+There is now an official Trimmomatic GitHub repository: https://github.com/usadellab/Trimmomatic
